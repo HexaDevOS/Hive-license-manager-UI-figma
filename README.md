@@ -1,5 +1,5 @@
 
-  #Hive-Net-Web3-Design-license-Manager-Subscription-UI
+  # Hive-Net-Web3-Design-license-Manager-Subscription-UI
 
   This code is for Web3 the license manager subscription page Page Design. The original project is available 
 
