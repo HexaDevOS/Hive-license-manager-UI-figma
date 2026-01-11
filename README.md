@@ -1,5 +1,5 @@
 
- # Hive Net Web3 Design-license-Manager-Subscription UI
+ # HiveNet Web3 Design license-Manager Subscription UI
 
   This code is for the Web3  license manager subscription Page Design.
 <img width="1671" height="764" alt="Screenshot 2026-01-11 at 7 09 36 AM" src="https://github.com/user-attachments/assets/4ab53b68-0009-4517-ae02-117ce82d6704" />
